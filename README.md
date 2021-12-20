@@ -8,16 +8,16 @@ Here is a brief for the implementation. Full video is attached [here](https://dr
 ### Program
 The program has the following functions:
 - Robot Joints Coordinated Movement 
-- Calibration 
-- Homing
-- End Position
-<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146724846-0ffd6cbd-042a-4779-8b2d-1b59345f1232.gif" width="300" height="280" /></p>
+- Joints Calibration 
+- Robot Homing
+- End Position (CG position)
+  <p align="center"><img src="https://user-images.githubusercontent.com/90580636/146724846-0ffd6cbd-042a-4779-8b2d-1b59345f1232.gif" width="300" height="280" /></p>
 
-Full video is attached [here](https://drive.google.com/file/d/1jQn1Gvp8Jp3hgi7CoDXL0Ty54K_mfvm9/view?usp=sharing).
+  Full video is attached [here](https://drive.google.com/file/d/1jQn1Gvp8Jp3hgi7CoDXL0Ty54K_mfvm9/view?usp=sharing).
 
-- Moving Function
-- MATLAB Communication
+- Moving Function (Stepper motors synchronization)
+- MATLAB Communication 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146723637-22ea6cf0-3347-450c-9a6e-76ec3276bed3.png" width="300" height="280" /></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/90580636/146723637-22ea6cf0-3347-450c-9a6e-76ec3276bed3.png" width="400" height="280" /></p>
 
 
