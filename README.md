@@ -5,19 +5,12 @@ Here is a brief for the implementation. Full video is attached [here](https://dr
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/146723211-144d0847-4ea3-4b66-bcab-db4f1eefaf8c.gif" width="300" height="280" /></p>
 
 The program has the following functions:
-- Robot Joints Coordinated Movement 
+- Robot Joints Coordinated Movement (Stepper motors synchronization)
+- MATLAB Communication 
 - Joints Calibration 
 - Robot Homing
 - End-Position (CG position)
-- Moving Function (Stepper motors synchronization)
-- MATLAB Communication 
-
----
-### Calibration/ Homing/ End-Position
-<p align="left"><img src="https://user-images.githubusercontent.com/90580636/146724846-0ffd6cbd-042a-4779-8b2d-1b59345f1232.gif" width="300" height="280" /></p>
-
-Full video is attached [here](https://drive.google.com/file/d/1jQn1Gvp8Jp3hgi7CoDXL0Ty54K_mfvm9/view?usp=sharing).
-
+- 
 ---
 ### Stepper motors synchronization
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/146725925-77ec8972-cf46-4d01-98a0-8cbdc07db349.png" width="600" height="280" /></p>
@@ -31,3 +24,11 @@ Full video is attached [here](https://drive.google.com/file/d/1jQn1Gvp8Jp3hgi7Co
 ---
 ### MATLAB Communication 
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/146723637-22ea6cf0-3347-450c-9a6e-76ec3276bed3.png" width="600" height="280" /></p>
+
+---
+### Calibration/ Homing/ End-Position
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/146724846-0ffd6cbd-042a-4779-8b2d-1b59345f1232.gif" width="300" height="280" /></p>
+
+Full video is attached [here](https://drive.google.com/file/d/1jQn1Gvp8Jp3hgi7CoDXL0Ty54K_mfvm9/view?usp=sharing).
+
+
