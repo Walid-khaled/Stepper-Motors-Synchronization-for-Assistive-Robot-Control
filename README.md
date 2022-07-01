@@ -10,7 +10,6 @@ The program has the following functions:
 - Joints Calibration 
 - Robot Homing
 - End-Position (CG position)
-- 
 ---
 ### Stepper motors synchronization
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/146725925-77ec8972-cf46-4d01-98a0-8cbdc07db349.png" width="600" height="280" /></p>
