@@ -2,7 +2,7 @@
 ## Stepper-Motors-Synchronization-for-Robot-Control
 In this repository, steppers motors are synchronized to control 6DOF manipulator using <MultiStepper.h> and <AccelStepper.h> libraries. In addition, MATLAB-Arduino communication is set in order to send the kinematics solution to the robot. Moreover, special functions are implemented such as joints calibration, homing, and end position. 
 
-Here is a brief for the implementation. Full video is attached [here](https://youtu.be/Y6f2tksF_T4).
+Here is a brief for the implementation. Full demo is attached [here](https://youtu.be/Y6f2tksF_T4).
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/146723211-144d0847-4ea3-4b66-bcab-db4f1eefaf8c.gif" width="300" height="280" /></p>
 
 The program has the following functions:
@@ -29,6 +29,6 @@ The program has the following functions:
 ### Calibration/ Homing/ End-Position
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/146724846-0ffd6cbd-042a-4779-8b2d-1b59345f1232.gif" width="300" height="280" /></p>
 
-Full video is attached [here](https://youtu.be/XSTnO-91fX4).
+Full demo is attached [here](https://youtu.be/XSTnO-91fX4).
 
 
